@@ -78,4 +78,5 @@ PayPal WILL preauthorize the charge on your card, even if you don't finish check
 6. Go to your cart and remove the test product from it.
 9. Go through the "Setting up your cart" section again. Your cart is probably still configured and hot, but it can't hurt to set it up again to be safe. Wouldn't want to miss out on a card because your cart wasn't configured.
 10. If you don't want to do any more testing, open your settings pane and turn "Test Mode" to false. You will get a warning that your script is now hot, and if you let it run it will buy whatever is in your list. Click "OK" to confirm the switch, or cancel it to leave test mode on.
-11. Congrats! You should be all set up, and ready to cop some GEE PEE YOUZ.
+11. Open [evga-bstock](https://discord.com/channels/767566223729754122/869681156797390849) in your browser for automatic monitoring.
+12. Congrats! You should be all set up, and ready to cop some GEE PEE YOUZ.
