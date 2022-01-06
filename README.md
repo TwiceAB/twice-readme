@@ -37,6 +37,9 @@ If that doesn't work, go to the *Cart Page* and try opening up the developer con
 
 Worst case scenario, create an entirely new profile and set the extension and your cart up again.
 
+# Stock Monitoring
+The script checks for new messages in a stock alert channel, and automatically opens the B Stock page when new messages are detected. Log in to discord in your browser with the extension installed, and navigate to [evga-bstock](https://discord.com/channels/767566223729754122/869681156797390849)
+
 # Setting up the script
 1. Install the extension as an unpacked extension. To do this go to your extensions on Chrome, toggle Developer Mode on, and click "Load Unpacked". Then, select the folder you extracted from the zip I provided.
 2. Click on the extension icon (you may need to pin it depending on how many extensions you have)
